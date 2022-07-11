@@ -11,9 +11,9 @@
 ![image](https://user-images.githubusercontent.com/106709942/178166508-9375c423-5399-46bd-accf-dbe476a603d3.png)
   - From the pie chart above and table above, It is seen that the majority of PyBer's customers and drivers are located in Urban cities with 62.7% of the total fares. Urban cities has a staggering amount of drivers around thirty times more compared to rural areas. Because of this excess supply of driver in comparison to customers, the average fare per driver is $16.57 which is lower than the rura, and suburban market.
   - The only city with more total drivers than total riders is Urban.
-  - Suburban cities has a healthy balance between customers, and drivers with fare being $6.44 higher than urban cities as well as the average driver fare being $22.93 highr than urban cities. Surburban is the middle ground inbetween urban number, and rural numbers. 
+  - Suburban cities has a healthy balance between customers, and drivers with fare being $6.44 higher than urban cities as well as the average driver fare being $22.93 higher than urban cities. Surburban is the middle ground inbetween urban number, and rural numbers. 
   - The highest average fare per driver is in Rural markert where the supply of drivers is lower than the demand from riders. The ratio of this supply, and demand imbalance is 2:1. 
-  - Due to the low supply of rural drivers, the average fare per driver is ~40% higher than suburban drivers and ~235% higher than urban drivers
+  - Due to the low supply of rural drivers, the average fare per driver is ~40% higher than suburban drivers and ~235% higher than urban drivers.
 
 ![image](https://user-images.githubusercontent.com/106709942/178173058-28bc872a-9ac0-4917-80cf-61d839011b65.png)
 - The graph above shows the weekly fares of each city type from Jan 1, 2019 to April 29, 2019 which is considered the first quarter of 2019. Total fares for each city type have been semi-consistent maintaining a certain range of revenue. 
